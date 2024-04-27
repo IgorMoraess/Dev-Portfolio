@@ -23,3 +23,7 @@ https://portfolio-igormoraes.onrender.com/
 <img width="200px" height="185px" src="https://bobbelderbos.com/assets/git-clone.png">           <img width="250px" height="185px" src="https://www.meme-arsenal.com/memes/d8e78747bd97024c4a40e59e7f5f2209.jpg">
 
 </div>
+
+<div align="center">
+<img src="https://github.com/IgorMoraess/Dev-Portfolio/blob/main/Badge-Portf%C3%B3lio.png?raw=true" />
+</div>
