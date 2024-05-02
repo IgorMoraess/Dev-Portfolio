@@ -25,5 +25,5 @@ https://portfolio-igormoraes.onrender.com/
 </div>
 
 <div align="center">
-<img src="https://github.com/IgorMoraess/Dev-Portfolio/blob/main/Badge-Portf%C3%B3lio.png?raw=true" />
+<img src="https://raw.githubusercontent.com/IgorMoraess/Dev-Portfolio/main/Badge-Portf%C3%B3lioIMG.png" />
 </div>
